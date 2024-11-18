@@ -1,0 +1,8 @@
+﻿# Vagrant
+.vagrant/
+*.log
+# Virtual Machine files
+*.box
+# OS-specific files
+.DS_Store
+Thumbs.db
